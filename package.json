@@ -1,0 +1,24 @@
+{
+  "name": "goseos",
+  "version": "1.0.0",
+  "description": "Personal website using bootstrap4  with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/untari/goseos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/untari/goseos/issues"
+  },
+  "homepage": "https://github.com/untari/goseos#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1"
+  }
+}
