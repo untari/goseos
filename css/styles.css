@@ -2,6 +2,11 @@
 
 .navbar {
     background-color: #1c1b1a;
+     float: right;
+}
+.navbar-nav a {
+    float: right;
+    text-align: right;
 }
 
 .row-footer {
@@ -11,8 +16,4 @@
     width: 100%;
     background-color: floralwhite;
     text-align: center;
-}
-.text-center {
-    justify-content: center;
-    align-items: center;
 }
