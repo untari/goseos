@@ -1,0 +1,18 @@
+
+
+.navbar {
+    background-color: #1c1b1a;
+}
+
+.row-footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: floralwhite;
+    text-align: center;
+}
+.text-center {
+    justify-content: center;
+    align-items: center;
+}
