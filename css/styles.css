@@ -1,19 +1,26 @@
 body { 
-    padding: 50px 0px 0px 0px; 
-    background-image: url("../images/home.png");
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 35%;
-    
-    
+    padding: 50px 0px 0px 50px; 
+   
 }
 
 .navbar {
     background-color: #1c1b1a;
 }
 
+
+#about {
+    padding-top: 5%;
+}
+#features {
+    padding-top: 5%;
+}
+
+#contact {
+    padding-top: 4%;
+}
+
 .row-footer {
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -24,5 +31,6 @@ body {
 
 .card {
     border: none;
-    padding-top: 20%;
+    padding-top: 15%;
 }
+
