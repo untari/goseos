@@ -1,6 +1,6 @@
 body { 
     padding: 50px 0px 0px 50px; 
-   
+
 }
 
 .navbar {
@@ -24,7 +24,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: floralwhite;
+    background-color: #50ba3d;
     text-align: center;
 }
 
