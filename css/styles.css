@@ -1,12 +1,15 @@
 body { 
     padding: 50px 0px 0px 50px; 
-
+    background-color: #74cfa1;
 }
 
 .navbar {
     background-color: #1c1b1a;
 }
 
+#home{
+    padding-top: 5%;
+}
 
 #about {
     padding-top: 5%;
@@ -25,7 +28,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #4ed98f;
+    background-color: #74cfa1;
     text-align: center;
 }
 
